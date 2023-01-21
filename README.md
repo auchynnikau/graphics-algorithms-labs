@@ -1,5 +1,4 @@
-# graphics-algorithms-labs
-Computer graphics algorithms course labs
+# Computer graphics algorithms course labs
 
 - Line clipping using Cyrus-Beck's algorithm
 - Building object wire model
